@@ -1,0 +1,1 @@
+# GUI uses stdlib tkinter only. FFmpeg/ffprobe must be on PATH.

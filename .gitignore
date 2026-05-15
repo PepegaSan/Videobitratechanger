@@ -1,0 +1,13 @@
+mass_bitrate_gui_config.json
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+design_kit/
+github_kit/
+Davinci API start/
+ffmpeg converter/
+.idea/
+.vscode/

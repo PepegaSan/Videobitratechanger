@@ -1,0 +1,27 @@
+{
+  "input_folder": "",
+  "output_folder": "",
+  "recursive": true,
+  "only_lower": true,
+  "audio_mode": "copy",
+  "codec": "hevc_nvenc",
+  "suffix": "_reencode",
+  "post_success_action": "keep",
+  "preset_name": "Standard",
+  "rule_values": {
+    "2160": "6000",
+    "1440": "5000",
+    "1080": "4000",
+    "720": "2000",
+    "480": "1000",
+    "360": "800",
+    "0": "700"
+  },
+  "custom_presets": {},
+  "window_geometry": "",
+  "output_mp4": true,
+  "output_beside_source": true,
+  "strip_autobitrate_suffix": true,
+  "rename_only_video": true,
+  "language": "en"
+}
